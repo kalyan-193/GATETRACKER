@@ -1,0 +1,6 @@
+{
+  "name": "GATE Tracker",
+  "description": "A premium, Apple-inspired glassmorphic study tracker, analytics dashboard, and smart revision planner for GATE EE aspirants with built-in Pomodoro timers and local Excel sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
